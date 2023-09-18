@@ -1,0 +1,13 @@
+Pseudocode 
+Luas Lingkaran
+
+Deklarasi :
+pi, r, luas : int
+
+Deskripsi :
+print "Hitung Luas Lingkaran"
+print "Masukkan jari jari = "
+read r
+luas = 3.14 * (r * r)
+print "Luas Lingkaran = "
+print luas

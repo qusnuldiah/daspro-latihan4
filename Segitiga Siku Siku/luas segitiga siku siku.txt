@@ -1,0 +1,15 @@
+Pseudocode 
+Luas Segitiga Siku Siku
+
+Deklarasi :
+alas, tinggi, luas : int
+
+Deskripsi :
+print "Hitung Luas Segitiga Siku Siku"
+print "Masukkan alas = "
+read alas
+print "Masukkan tinggi = "
+read tinggi
+luas = 0.5 * alas * tinggi
+print "Luas Segitiga Siku Siku = "
+print luas

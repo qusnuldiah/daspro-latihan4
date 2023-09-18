@@ -1,0 +1,13 @@
+Pseudocode 
+Keliling Lingkaran
+
+Deklarasi :
+pi, r, keliling : int
+
+Deskripsi :
+print "Hitung Keliling Lingkaran"
+print "Masukkan jari jari = "
+read r
+keliling = 2 * 3.14 * r
+print "Keliling Lingkaran = "
+print keliling

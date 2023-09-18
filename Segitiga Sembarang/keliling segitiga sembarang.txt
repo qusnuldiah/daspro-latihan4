@@ -1,0 +1,17 @@
+Pseudocode 
+Keliling Segitiga Sembarang
+
+Deklarasi :
+sisi1, sisi2, sisi3, keliling : int
+
+Deskripsi :
+print "Hitung Keliling Segitiga Sembarang"
+print "Masukkan sisi1 = "
+read sisi1
+print "Masukkan sisi2 = "
+read sisi2
+print "Masukkan sisi3 = "
+read sisi3
+keliling = sisi1 + sisi2 + sisi3
+print "Keliling Segitiga Sembarang = "
+print keliling

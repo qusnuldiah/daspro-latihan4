@@ -1,0 +1,15 @@
+Pseudocode 
+Luas Segitiga Sembarang
+
+Deklarasi :
+alas, tinggi, luas : int
+
+Deskripsi :
+print "Hitung Luas Segitiga Sembarang"
+print "Masukkan alas = "
+read alas
+print "Masukkan tinggi = "
+read tinggi
+luas = 0.5 * alas * tinggi
+print "Luas Segitiga Sembarang = "
+print luas
